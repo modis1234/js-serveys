@@ -1,0 +1,11 @@
+{
+  "name": "js-serveys",
+  "version": "1.0.0",
+  "description": "buzzni-challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lee donghun",
+  "license": "ISC"
+}
